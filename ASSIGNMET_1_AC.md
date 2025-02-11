@@ -8,7 +8,7 @@
 # Addressing their annoyances with the onboarding procedures for clients and employees is the aim.
 
 
-#1. Gathereed Requirements:
+1. Gathereed Requirements:
 
 #######  A- Employee's Onboarding Challenges  ########
 #    - The 3-month onboarding period is too lengthy, causing delays and inefficiencies.
@@ -24,10 +24,11 @@
 
 
 
-#2. Q&A to Clarify Client Intentions and scope:
+2. Q&A to Clarify Client Intentions and scope:
 
   # 1. Which steps do consumers find most difficult, and which are the most important ones in the present client onboarding process?
   # 2. How are client details now tracked or documented by staff members during onboarding?
   # 3. Are there any noteworthy customer concerns about the onboarding process in particular?
-
+  # 4. Are your onboarding procedures impacted by any industry-specific laws or compliance standards?
+  # 5. How do you envision the perfect onboarding process for clients and staff?
 
