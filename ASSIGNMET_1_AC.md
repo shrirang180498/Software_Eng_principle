@@ -21,3 +21,13 @@
 #######  C- Lack of Standardization   #############
 #    - Both employee and client onboarding processes lack uniformity, leading to frustration across all stakeholders.
 #    - There is no centralized system or documentation to guide these processes.
+
+
+
+#2. Q&A to Clarify Client Intentions and scope:
+
+  # 1. Which steps do consumers find most difficult, and which are the most important ones in the present client onboarding process?
+  # 2. How are client details now tracked or documented by staff members during onboarding?
+  # 3. Are there any noteworthy customer concerns about the onboarding process in particular?
+
+
